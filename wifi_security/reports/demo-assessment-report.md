@@ -2,7 +2,7 @@
 
 **Assessment ID:** DEMO-WIFI-001
 **Assessment type:** SYNTHETIC DEMONSTRATION - NO LIVE TEST CONDUCTED
-**Date:** 2026-10-26
+**Date:** 2025-10-26
 **Environment:** Fictional Lab Example
 
 > **Important:** These are configuration observations requiring independent validation, NOT verified vulnerabilities. The sample input is entirely synthetic. Never use it to claim a real client engagement.
